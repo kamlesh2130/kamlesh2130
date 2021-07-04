@@ -6,5 +6,6 @@ Transitioning to web development has enabled me to continue my lifelong passion 
 - 👋 Hi, I’m @kamlesh2130
 - 👀 I’m interested in Java and love to desigining web pages
 - 🌱 I’m currently learning JavaScript, NodeJs
+- 🔍 I’m looking to: further my knowledge on building accessibile interfaces
 - 📫 How to reach me https://www.linkedin.com/in/kamlesh-kumar-11732310a/
 
